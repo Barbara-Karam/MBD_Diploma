@@ -1,0 +1,1 @@
+var modelInfo = {model:"maxminmax"};var modelHierarchy=[{model:"maxminmax",relativePath:"_internal.html",parent:"null"},];
