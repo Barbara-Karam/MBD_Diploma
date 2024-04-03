@@ -1,0 +1,5 @@
+ArduinoPinHandleMap.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ C:/Users/brbar/Documents/MATLAB/MBD_Diploma/Arduino_Lab3/ultrasonic_ert_rtw/rtwtypes.h
+
+C:/Users/brbar/Documents/MATLAB/MBD_Diploma/Arduino_Lab3/ultrasonic_ert_rtw/rtwtypes.h:
